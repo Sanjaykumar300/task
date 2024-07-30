@@ -1,0 +1,35 @@
+.footer {
+        background-color: #263238;
+        color: white;
+        padding: 20px 0;
+    }
+    .footer a {
+        color: white;
+    }
+    .footer a:hover {
+        color: #18BC9C;
+    }
+    .footer .social-icons a {
+        margin: 0 10px;
+        display: inline-block;
+    }
+    .footer .social-icons a i {
+        font-size: 24px;
+    }
+    .footer .subscribe input {
+        border: none;
+        padding: 10px;
+        border-radius: 5px;
+        width: calc(100% - 50px);
+        display: inline-block;
+    }
+    .footer .subscribe button {
+        background-color: #18BC9C;
+        border: none;
+        padding: 10px;
+        border-radius: 5px;
+        color: white;
+        cursor: pointer;
+        width: 40px;
+        display: inline-block;
+    } 
